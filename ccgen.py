@@ -6,7 +6,7 @@ time.sleep(1)
 print"""
 +=====================+=====================+
 |                                                        |
-|                                CCGen v1.0              |
+|                                CCGen v2.0              |
 |                                                        |
 |                        CODED BY : trhacknon            |
 |       E-mail : jeremydiliotti@gmail.com         |
@@ -20,8 +20,8 @@ with open('up1.txt') as f:
 time.sleep(1)
 def cardgenerator():
     binn = raw_input("Enter Bin (Ex :521086) : ")
-    mm = raw_input("Month (MM) : ")
-    yy = raw_input("Year (YY) : ")
+    mm = raw_input("Mois (MM) : ")
+    yy = raw_input("Annee (YY) : ")
     i=1
     for i in range(0,100):
             i=i+1
