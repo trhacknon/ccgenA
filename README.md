@@ -8,5 +8,5 @@ git clone https://github.com/trhacknon/ccgenA
 cd ccgenA
 ```
 ```
-python2 cc.py
+python2 ccgen.py
 ```
